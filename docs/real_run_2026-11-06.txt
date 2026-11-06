@@ -1,0 +1,15 @@
+watching 2 wallet(s) on Base via base.gateway.tenderly.co
+trader-2 received 60.020807 VIRTUAL
+Rug check: OK (ALLOW, grade A, risk 0/100)
+Why: trade simulation passed and no rug signal found
+Flags: DEPLOYER_UNKNOWN, MINT_ENABLED, NO_EFFECTIVE_CONTROLLERS, SCAM_SIGNALS_INCOMPLETE
+Token: https://basescan.org/token/0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b
+Tx: https://basescan.org/tx/0xf5116e79ad74e205da95528ddeec0d191b86b5d7c74895d74259190394d5bb9a
+
+trader-1 received 768,861 GM
+Rug check: CAUTION (LIMIT, grade C, risk 35/100)
+Why: material risk found; trade small or skip: deployer_prior_rug, no_effective_controllers, scam_signals_incomplete
+Flags: DEPLOYER_PRIOR_RUG, DEPLOYER_REPUTATION_FLOOR, NO_EFFECTIVE_CONTROLLERS, SCAM_SIGNALS_INCOMPLETE
+Token: https://basescan.org/token/0xbe4eecc9b85f76558982d196765f705c912b9ba0
+Tx: https://basescan.org/tx/0xd951c30187e8aee319837488475e05762d1387c00663e44d59f5490c658ca47a
+
