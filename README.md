@@ -85,6 +85,6 @@ auto-revoke or a sell alert). If you would use that, open a
 with what you need and a rough budget, or leave a contact and budget on the short form at
 [cyberwarex.com/gigs](https://cyberwarex.com/gigs) if you have no GitHub account. No promise yet; we count the requests to decide what to build.
 
-Sister demo: [token-check-bot](https://github.com/cyberwarex/token-check-bot) answers every token address posted in your Telegram group with the same rug check.
+Sister demos: [token-check-bot](https://github.com/cyberwarex/token-check-bot) answers every token address posted in your Telegram group with the same rug check; [daily-token-report](https://github.com/cyberwarex/daily-token-report) re-checks a token list once a day and reports what changed.
 
 MIT license.
