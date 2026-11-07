@@ -82,6 +82,7 @@ All network calls are stubbed in the tests.
 We are testing whether people want this as a hosted service (your wallets, your Telegram, plus actions like
 auto-revoke or a sell alert). If you would use that, open a
 [build request](https://github.com/cyberwarex/wallet-alert/issues/new?template=build-request.md)
-with what you need and a rough budget. No promise yet; we count the requests to decide what to build.
+with what you need and a rough budget, or leave a contact and budget on the short form at
+[cyberwarex.com/gigs](https://cyberwarex.com/gigs) if you have no GitHub account. No promise yet; we count the requests to decide what to build.
 
 MIT license.
